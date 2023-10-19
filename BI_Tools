@@ -1,0 +1,223 @@
+<table border="1" cellspacing="0" cellpadding="0" width="945">
+    <tbody>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Features</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    <strong>MicroStrategy</strong>
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    <strong>Power BI</strong>
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    <strong>Tableau</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Self Service</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    MicroStrategy ONE    for auto insights, auto dashboard
+                    creation, auto SQL generation, generation    of key trends,
+                    forecasting, NLP integration
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    Smart Discovery    features can create reports and
+                    dashboards automatically, NLP Integration to    generate
+                    insights, integrated sentiment analysis and forecasting
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    Augmented    analytics lets users interact with data at
+                    contextual level,  ask data feature generates answers in
+                    charts form, explain data provides explanation to  any data
+                    point, what-if analysis,    guided model building, governed
+                    predictions
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Embedded Analytics</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    Capabilities to    customize, embed, extend reports and
+                    dashboards into websites, applications    and software,
+                    hyperintelligence to embed hyper cards
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    Offers embedding    reports, tiles, dashboards into
+                    applications and websites, different features    such as
+                    secure embed, embed for organization, embed for customer are
+                    offered    as well
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    Provides copy    paste embed code method, JavaScript API and
+                    Embedded API for more    customization
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Collaborative BI</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    Collaborations    through dossiers, offers version history
+                    and tracking
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    Offers    collaborative workspace called “Power BI Service”,
+                    provide functionalities of    annotations and comments
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    Tableau Server and    Tableau Online both provides
+                    collaborative environments, can add annotation    and
+                    comments
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Data Security</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    Role Based Access    Control, Supports data encryption and
+                    data masking, provides auditing and    monitoring features
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    Role Based Access    Control, support data encryption, no
+                    data masking, provides auditing    capabilities in Power BI
+                    Service
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    Role Based Access    Control, offers data encryption, no
+                    native data masking, offers auditing and    monitoring tools
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Voice Assistant</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    Development of    custom voice assistant using MicroStrategy
+                    REST APIs
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    Allows integration    with Azure’s Cognitive Services that
+                    can help in building custom voice    assistance using
+                    Microsoft’s AI capabilities
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    Can integrate with    external voice assistants
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Chatbot</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    MicroStrategy offers an open    architecture with robust
+                    APIs that allow for seamless integration with    chatbot
+                    interfaces that can query MicroStrategy reports and
+                    dashboards also    provide high security features by using
+                    the advanced AI in their new version,    MicroStrategy One
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    Power BI supports integration with chatbots through REST
+                    APIs, Azure Logic    Apps, offers NLP capabilities through
+                    its Q&amp;A feature
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    Tableau offers natural    language processing capabilities
+                    in its "Ask Data" feature
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="113" valign="top">
+                <p>
+                    <strong>Mobile BI</strong>
+                </p>
+            </td>
+            <td width="265" valign="top">
+                <p>
+                    Supports both iOS and Android    devices, offers responsive
+                    web interfaces, mobile-optimized dashboards and    reports,
+                    offline data access, location intelligence, touch optimized
+                    interactivity. Also incorporating voice commands and natural
+                    language    understanding for mobile BI interactions
+                </p>
+            </td>
+            <td width="284" valign="top">
+                <p>
+                    Supports both iOS and Android    devices, responsive
+                    dashboards for mobile viewing, offers integration of AI
+                    powered insights NLP for conversational analytics and
+                    advanced mobile    collaboration
+                </p>
+            </td>
+            <td width="283" valign="top">
+                <p>
+                    It offers    a mobile app for iOS and Android, known as
+                    "Tableau Mobile”, allows    creation of mobile-responsive
+                    dashboards and reports with offline access    features,
+                    augmented reality  integration and AI driven mobile
+                    insights
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
